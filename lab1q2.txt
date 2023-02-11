@@ -1,0 +1,63 @@
+<html>
+<head>
+<center><h1>ABHIRUP CHOWDHURY</h1></center>
+</head>
+<body>
+<img src="C:\Users\KIIT\OneDrive\Pictures\my image.jpg"width="200" height="200" align="right">
+<h2>Contact</h2>
+<p><b>Email id:</b>abhirupchowdhury63@gmail.com</p>
+<p><b>Mobile no :</b>8328895826</p>
+<h2>Skills</h2>
+<ul>
+<li><b>Programming Languages :
+Python, Java, C++</b></li>
+<li><b>Frontend : HTML5, CSS3,
+JavaScript, React</b></li>
+<li><b>Backend : Node.js</b></li>
+</ul>
+<h2>Language</h2>
+<ul>
+<li>English</li>
+<li>Hindi</li>
+<li>Odia</li>
+<li>Bengali</li>
+</ul>
+<h2>Hobbies</h2>
+<ul>
+<li>Playing football</li>
+<li>Watching movies</li>
+</ul>
+<h1>IOT MEMBER</h1>
+<p>Web Developer</p>
+<h2>Education</h2>
+<table>
+<tr>
+<th>SCHOOL NAME</th>
+<th>Passing year </th>
+<th>percentage/cgpa</th>
+</tr>
+<tr>
+<td>DELHI PUBLIC SCHOOL</td>
+<td>2020</td>
+<td>8.9</td>
+</tr>
+<tr>
+<td>DELHI PUBILC SCOOL</td>
+<td>2018</td>
+<td>89%</td>
+</tr>
+</table>
+<ul>
+<li>
+<h2>Project1</h2>
+<p>This project is based on html.
+& used React</p>
+</li>
+<li>
+<h2>Project2</h2>
+<p>This project is based on C programming.
+& used React</p>
+</li>
+</ul>
+</body>
+</html>

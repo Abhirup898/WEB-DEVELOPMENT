@@ -1,0 +1,83 @@
+<html>
+
+<head>
+    <title>
+        Registration form
+    </title>
+    <center>
+        <h1> KINDLY FILL THE BELOW FORM</h1>
+    </center>
+</head>
+
+<body>
+    <form>
+
+
+
+        <p>
+            <label for="Email id"><b>Email id</b></label>
+
+            <input type="text" placeholder="Email id" name="Email id" id="Email id" required />
+        </p>
+        <p>
+            <label for="Full Name"><b> Full Name </b></label>
+
+            <input type="text" placeholder="Full Name" name="NAME" id="name" required />
+        </p>
+
+        <p>
+            <b> Gender</b><br>
+
+            <input type="radio" id="Male" name="gender" value="Male">
+            <label for="html">Male</label><br>
+            <input type="radio" id="Female" name="gender" value="Female">
+            <label for="css">Female</label><br>
+        </p>
+        <p>
+            <b>Choose your subjects that you want to study</b>
+            <br>
+            <input type="checkbox" id="Subject 1" name="Subject 1" value="Subject 1">
+            <label for="vehicle1"> WT</label><br>
+            <input type="checkbox" id="Subject 2" name="Subject 2" value="Subject 2">
+            <label for="vehicle2"> COA</label><br>
+            <input type="checkbox" id="Subject 3" name="Subject 3" value="Subject 3">
+            <label for="vehicle3"> DBMS</label><br>
+            <input type="checkbox" id="Subject 4" name="Subject 4" value="Subject 4">
+            <label for="vehicle1"> AFL</label><br>
+            <input type="checkbox" id="Subject 5" name="Subject 5" value="Subject 5">
+            <label for="vehicle2"> PDC</label><br>
+            <input type="checkbox" id="Subject 6" name="Subject 6" value="Subject 6">
+            <label for="vehicle3"> OS</label><br>
+        </p>
+        <p>
+            <b>SELECT YOUR SEMESTER</b>
+            <br>
+            <select name="SEMESTER" id="SEMESTER">
+                <option value="1">1st</option>
+                <option value="2">2nd</option>
+                <option value="3">3rd</option>
+                <option value="4">4th</option>
+                <option value="5">5th</option>
+                <option value="6">6th</option>
+                <option value="7">7th</option>
+                <option value="8">8th</option>
+            </select>
+
+
+        <p>
+            <label for="password"><b>Password</b></label>
+
+
+            <input type="password" placeholder="Enter password" name="passwrod" id="password" required />
+        </p>
+        <p>
+            <label for="password"><b>Retype Password</b></label>
+
+
+            <input type="password" placeholder="Enter password" name="passwrod" id="password" required />
+        </p>
+        <button type="submit" form="form1" value="Submit">Submit</button>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>TIME TABLE</title>
+</head>
+<body>
+<center><h1>TIME TABLE</h1><center>
+<center>
+<table border="10">
+
+<tr bgcolor="blue">
+<td>DAY/TIME</td>
+<td>8-9</td>
+<td>9-10</td>
+<td>10-11</td>
+<td>break</td>
+<td>3-4</td>
+<td>4-5</td>
+<td>5-6</td>
+</tr>
+<tr bgcolor="red">
+<td>MONDAY</td>
+<td>AFL</td>
+<td>WT</td>
+<td>PDC</td>
+<td>break</td>
+<td>OS</td>
+<td colspan="2">OS LAB</td>
+
+</tr>
+<tr bgcolor="yellow">
+<td>TUESDAY</td>
+<td>COA</td>
+<td colspan="2">BC LAB</td>
+
+<td>break</td>
+<td>PDC</td>
+<td>AFL</td>
+<td>DBMS</td>
+</tr>
+<tr bgcolor="orange">
+<td>WEDNESDAY</td>
+<td>COA</td>
+<td>WT</td>
+<td>AFL</td>
+<td>break</td>
+<td>DBMS</td>
+<td colspan="2">DBMS LAB</td>
+
+</tr>
+<tr bgcolor="pink">
+<td>THRUSDAY</td>
+<td>DBMS</td>
+<td>AFL</td>
+<td>WT</td>
+<td>break</td>
+<td>OS</td>
+<td>PDC</td>
+<td>COA</td>
+</tr>
+
+</tr>
+<tr bgcolor="violet">
+<td>FRIDAY</td>
+<td>PDC</td>
+<td>COA</td>
+<td>DBMS</td>
+<td>break</td>
+<td>OS</td>
+<td colspan ="2">WT LAB</td>
+
+</tr>
+
+
+
+</table>
+</center>
+</body>
+</html>

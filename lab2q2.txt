@@ -1,0 +1,63 @@
+<head>
+    <title>Question 1</title>
+</head>
+<style>
+    table,
+    th,
+    td {
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    h1
+    {
+        color: crimson;
+    }
+    th
+    {
+        color: black;
+    }
+    table
+    {
+    background-color: lightcyan;
+    }
+</style>
+
+<body>
+    <h1>Time Table</h1>
+    <div>
+        <table>
+            <tr>
+                <th>Roll Number</th>
+                <th>Name</th>
+                <th colspan="2">Subject Wise Marks</th>
+                <th>Average</th>
+                <th>SGPA</th>
+                <th>Grade</th>
+            </tr>
+            <tr>
+                <td rowspan="4">21052128</td>
+                <td rowspan="4">Abhinav</td>
+                <td>DMS</td>
+                <td>89</td>
+                <td rowspan="4">60</td>
+                <td rowspan="4">6</td>
+                <td rowspan="4">8</td>
+            </tr>
+            <tr>
+                <td>PDC</td>
+                <td>78</td>
+            </tr>
+            <tr>
+                <td>DSA</td>
+                <td>87</td>
+            </tr>
+            <tr>
+                <td>OOP</td>
+                <td>98</td>
+            </tr>
+        </table>
+
+    </div>
+</body>
+
+</html>

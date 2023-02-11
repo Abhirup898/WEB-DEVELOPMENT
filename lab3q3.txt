@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>
+        QUESTION 3
+    </title>
+</head>
+
+
+<frameset rows="20%,80%">
+    <frame src="lab1q1.html"></frame>
+
+    <frameset cols="30%,70%">
+        <frame src="lab2q3.html"></frame>
+        <frameset rows="33.3%,33.3%,33.3%">
+            <frame src="lab2q3.html"></frame>
+            <frame src="lab2q3.html"></frame>
+            <frame src="lab2q3.html"></frame>
+        </frameset>
+    </frameset>
+
+
+</frameset>
+
+
+
+</html>

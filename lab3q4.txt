@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>
+            QUESTION 4
+        </title>
+    </head>
+    <frameset rows="30%,70%">
+        <frame src="file1.html" name="top"></frame>
+        <frameset cols="30%,70%">
+            <frame src="file2.html" name="right"></frame>
+            <frame src="file 3.html" name="left"></frame>
+            </frameset>
+
+
+
+    </frameset>
+</html>
